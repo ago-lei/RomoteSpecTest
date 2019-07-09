@@ -1,5 +1,5 @@
 #
-#  Be sure to run `pod spec lint 远程库.podspec' to ensure this is a
+#  Be sure to run `pod spec lint Yuancheng.podspec' to ensure this is a
 #  valid spec and to remove all comments including this before submitting the spec.
 #
 #  To learn more about Podspec attributes see https://guides.cocoapods.org/syntax/podspec.html
@@ -15,16 +15,16 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "远程库"
+  spec.name         = "Yuancheng"
   spec.version      = "0.0.1"
-  spec.summary      = "远程库."
+  spec.summary      = "Yuancheng."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  spec.description  = "======================"
+  spec.description  = "fkjhsKJhfjskFhsfhslfshjFhjksjkshjkfjkfKHKJJKJ"
 
   spec.homepage     = "https://github.com/ago-lei/RomoteSpecTest"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
@@ -37,7 +37,7 @@ Pod::Spec.new do |spec|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  spec.license      = "MIT"
+  spec.license      = "MIT (example)"
   # spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
